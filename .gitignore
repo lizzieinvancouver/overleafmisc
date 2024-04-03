@@ -1,0 +1,17 @@
+*synctex.gz
+*.Rdata
+*.RData
+*.Rda
+*.rds
+*.rda
+*.Rds
+*.Rhistory
+analyses/.Rhistory
+*.Rapp.history
+
+*Rplots.pdf
+*.DS_Store
+/notposting
+docs/comments
+
+
